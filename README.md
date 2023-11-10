@@ -1,4 +1,3 @@
-# calculate-sgpa-in-gcoeA USING C++
 #include <iostream>
 #include <vector>
 int calculateGradePoints(int totalMarks) 
